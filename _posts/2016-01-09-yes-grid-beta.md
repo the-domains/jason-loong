@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-01-09T18:26:33.610Z'
+datePublished: '2016-01-09T18:26:46.092Z'
 description: 'Yes! Grid beta!'
-dateModified: '2016-01-09T18:26:06.094Z'
+dateModified: '2016-01-09T18:26:33.610Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-09-yes-grid-beta.md
