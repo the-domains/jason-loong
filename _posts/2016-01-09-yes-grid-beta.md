@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Yes! Grid beta!'
-datePublished: '2016-01-09T18:48:21.105Z'
-dateModified: '2016-01-09T18:48:14.257Z'
+datePublished: '2016-01-09T18:50:39.183Z'
+dateModified: '2016-01-09T18:50:31.100Z'
 title: Leica Q on the go
 author: []
 sourcePath: _posts/2016-01-09-yes-grid-beta.md
