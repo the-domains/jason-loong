@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Yes! Grid beta!'
-datePublished: '2016-01-09T18:50:39.183Z'
-dateModified: '2016-01-09T18:50:31.100Z'
+datePublished: '2016-01-09T19:10:41.614Z'
+dateModified: '2016-01-09T19:10:38.124Z'
 title: Leica Q on the go
 author: []
 sourcePath: _posts/2016-01-09-yes-grid-beta.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 Yes! Grid beta!
-![Leica Q on the go](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d55356201f2d9838734ee43c9138a8fdae17e905.jpg)
+![Leica Q on the go](https://s3-us-west-2.amazonaws.com/the-grid-img/p/12edb767fb953054e014b4581abbd7ab4baa4762.jpg)
