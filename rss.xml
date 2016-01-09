@@ -4,21 +4,21 @@
         <description><![CDATA[Jason Loong]]></description>
         <link>https://thegrid.ai/jason-loong/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 18:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 18:50:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jason-loong/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leica Q on the go]]></title>
+            <description><![CDATA[<article><h1>Leica Q on the go</h1><p>Yes! Grid beta!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12edb767fb953054e014b4581abbd7ab4baa4762.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jason-loong/yes-grid-beta/index.html</link>
+            <guid isPermaLink="false">8c7cd1aa-a8ad-441e-884c-411e2f651b12</guid>
+            <pubDate>Sat, 09 Jan 2016 18:50:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Daddy Long Legs]]></title>
             <description><![CDATA[<article><h1>Daddy Long Legs</h1><p>Adding second post to the Grid! Make me a wonderful site!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d75832210dddb0f5346643abf140c5954ff06ae3.jpg"></article>]]></description>
             <link>https://thegrid.ai/jason-loong/39d75b87-ab20-477d-bffb-b8dcfcfeb3cf/index.html</link>
             <guid isPermaLink="false">39d75b87-ab20-477d-bffb-b8dcfcfeb3cf</guid>
             <pubDate>Sat, 09 Jan 2016 18:47:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leica Q on the go]]></title>
-            <description><![CDATA[<article><h1>Leica Q on the go</h1><p>Yes! Grid beta!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d55356201f2d9838734ee43c9138a8fdae17e905.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jason-loong/yes-grid-beta/index.html</link>
-            <guid isPermaLink="false">8c7cd1aa-a8ad-441e-884c-411e2f651b12</guid>
-            <pubDate>Sat, 09 Jan 2016 18:48:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
