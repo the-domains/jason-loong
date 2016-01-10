@@ -2,13 +2,13 @@ name: Jason Loong
 favicon: null
 layout_spectrum: 0.50456
 typography_spectrum: 0.24865
-title: Personal site of Jason Loong
+title: the Grid of Jason Loong
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-50466530-5
   facebook: null
   twitter: null
 opengraph:
