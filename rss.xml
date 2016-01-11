@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Personal site of Jason Loong]]></title>
-        <description><![CDATA[Personal site of Jason Loong]]></description>
+        <title><![CDATA[the Grid of Jason Loong]]></title>
+        <description><![CDATA[the Grid of Jason Loong]]></description>
         <link>https://thegrid.ai/jason-loong/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 22:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 17:13:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jason-loong/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Keep posting!]]></title>
+            <description><![CDATA[<article><h1>Keep posting!</h1><p>Still not getting the feel I want from the Grid... will keep posting!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/182caa94-51ca-4cb5-b238-f487e3067030.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jason-loong/keep-posting/index.html</link>
+            <guid isPermaLink="false">e4e55dcc-ac08-4b74-9781-d8c8df7f4f71</guid>
+            <pubDate>Mon, 11 Jan 2016 17:12:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Leica Q on the go]]></title>
             <description><![CDATA[<article><h1>Leica Q on the go</h1><p>Yes! Grid beta!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a988594e03cde927854b9335a27f4ad9b88d6b11.jpg"></article>]]></description>
