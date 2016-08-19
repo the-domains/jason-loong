@@ -1,20 +1,4 @@
-name: Jason Loong
-favicon: null
-layout_spectrum: 0.005670058540999889
 typography_spectrum: 0.2200708466116339
-title: the Grid of Jason Loong
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-50466530-5
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 0.31315979547798634
   saturation: 0.40418616333045065
   rhythmicContrast: 0.3578927624039352
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.005670058540999889
+analytics:
+  google: UA-50466530-5
+  facebook: null
+  twitter: null
+name: Jason Loong
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: B&W on myportfolio.com
+    url: jasonloong.myportfolio.com
+    type: external
+favicon: null
+title: the Grid of Jason Loong
 purpose: []
