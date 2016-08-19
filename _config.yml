@@ -28,6 +28,9 @@ navigation:
   - name: B&W on myportfolio.com
     url: jasonloong.myportfolio.com
     type: external
+  - name: Instagram qwebie
+    url: 'https://www.instagram.com/qwebie/'
+    type: external
 favicon: null
 title: the Grid of Jason Loong
 purpose: []
