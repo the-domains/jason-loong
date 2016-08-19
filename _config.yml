@@ -1,7 +1,7 @@
 name: Jason Loong
 favicon: null
-layout_spectrum: 0.75491
-typography_spectrum: 0.24865
+layout_spectrum: 0.005670058540999889
+typography_spectrum: 0.2200708466116339
 title: the Grid of Jason Loong
 cta:
   domain: null
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#686f75'
-    - '#3b434a'
-    - '#e1e2e4'
-    - '#babec1'
-  brandStrength: 0.25
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.7240297296084464
+  lightness: 0.31315979547798634
+  saturation: 0.40418616333045065
+  rhythmicContrast: 0.3578927624039352
 purpose: []
